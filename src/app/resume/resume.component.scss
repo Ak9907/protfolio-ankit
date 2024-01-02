@@ -1,0 +1,13 @@
+
+    .buttons{
+        height: 2rem;
+        justify-content: flex-end;
+        align-items: flex-end;
+        display: flex;
+        padding-right: 20px;
+        gap: 15px;
+        .btns{
+            cursor: pointer;
+        }
+    }
+
